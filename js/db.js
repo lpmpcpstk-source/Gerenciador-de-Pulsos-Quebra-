@@ -4,8 +4,8 @@
  */
 'use strict';
 
-const SUPABASE_URL      = 'https://tjaziadvyusarvhrnoby.supabase.co';
-const SUPABASE_ANON_KEY = 'sb_publishable_Eg4LXRVnFVqaVI9jPem_CQ_jG9UQMf_';
+const SUPABASE_URL      = 'https://vqxinzzrgvqkstgenmaq.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_7HgPSM-u2xGunmGf7JOCLg_ohUT941r';
 
 const DB = {
   TABLE: 'fichas_tecnicas',
